@@ -1,0 +1,34 @@
+h1 {
+    border-style: dashed;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #ffae96;
+    font-family: "Times New Roman", Times, serif;
+}
+
+body {
+    background-color: #ffae96;
+    font-family: "Times New Roman", Times, serif;
+}
+
+p {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+
+img {
+    width: 25%;
+    display: block;
+    margin: auto;
+}
+
+.center {
+    text-align: center;
+}
+
+a {text-align: center;}
+a:link {color: #000000;}
+a:visited {color: #6e6c6c;}
+a:hover {color: #ffffff;}
+a:focus {color: #ffffff;}
+a:active {color: #ff0000;}
